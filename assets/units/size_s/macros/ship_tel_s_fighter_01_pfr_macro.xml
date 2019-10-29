@@ -19,7 +19,7 @@
       <hull max="2250" />
       <secrecy level="2" />
       <purpose primary="fight" />
-      <people capacity="8" />
+      <people capacity="5" />
       <sounds>
         <shipdetail ref="shipdetail_ship_01" />
       </sounds>
