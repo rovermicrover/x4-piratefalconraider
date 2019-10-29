@@ -16,7 +16,7 @@ Adds a Pirate Specific Falcon, the Falcon Raider. It is used by the pirate facti
 
 [Egosoft Forum]()
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1901448642)
 
 [Github](https://github.com/rovermicrover/x4-piratefalconraider)
 
