@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<remove sel="//wares/ware[@id='ship_tel_s_fighter_01_a']/owner[@faction='hatikvah']" />
+	<remove sel="//wares/ware[@id='ship_tel_s_fighter_01_a']/owner[@faction='scaleplate']" />
+	<remove sel="//wares/ware[@id='ship_tel_s_fighter_01_b']/owner[@faction='hatikvah']" />
+	<remove sel="//wares/ware[@id='ship_tel_s_fighter_01_b']/owner[@faction='scaleplate']" />
+	<add sel="//wares">
+		<ware id="ship_tel_s_fighter_01_pfr" name="{20101,20209}" description="{20101,20219}" group="ships_teladi" transport="ship" volume="1" tags="ship">
+			<price min="159014" average="188840" max="218666" />
+			<production time="14" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="59" />
+					<ware ware="hullparts" amount="142" />
+				</primary>
+			</production>
+			<component ref="ship_tel_s_fighter_01_pfr_macro" amount="1" />
+			<restriction licence="generaluseship" />
+			<owner faction="hatikvah" />
+			<owner faction="scaleplate" />
+		</ware>
+	</add>
+</diff>

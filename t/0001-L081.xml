@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <add sel="//language[@id='81']/page[@id='20101']">
+        <t id="11009">(Behemoth Raider){20101,11001} {20111,1001}</t>
+        <t id="11019">{20101,11011}</t>
+    </add>
+</diff>
