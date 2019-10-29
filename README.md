@@ -14,7 +14,7 @@ Adds a Pirate Specific Falcon, the Falcon Raider. It is used by the pirate facti
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419675)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1901448642)
 
