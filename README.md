@@ -1,6 +1,6 @@
 # About
 
-Adds a Pirate Specific Falcon, the Falcon Raider. It is used by the pirate factions instead of the vanguard version. It is faster, has more cargo and crew than the vanguard, but has less hull points, and one less large shield.
+Adds a Pirate Specific Falcon, the Falcon Raider. It is used by the pirate factions instead of the vanguard and sentinel versions. It is faster, has more cargo and crew than the vanguard, but has much less hull points.
 
 # What Is Modified?
 
@@ -22,4 +22,4 @@ Adds a Pirate Specific Falcon, the Falcon Raider. It is used by the pirate facti
 
 # History
 
-1.00 Release Version
+1.01 Release Version
