@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
 	<add sel="/index">
-		<entry name="ship_tel_s_fighter_01_pfr_macro" value="extensions\piratebehemothraider\assets\units\size_s\macros\ship_tel_s_fighter_01_pfr_macro"/>
-		<entry name="storage_tel_s_fighter_01_pfr_macro" value="extensions\piratebehemothraider\assets\units\size_s\macros\storage_tel_s_fighter_01_pfr_macro" />
+		<entry name="ship_tel_s_fighter_01_pfr_macro" value="extensions\piratefalconraider\assets\units\size_s\macros\ship_tel_s_fighter_01_pfr_macro"/>
+		<entry name="storage_tel_s_fighter_01_pfr_macro" value="extensions\piratefalconraider\assets\units\size_s\macros\storage_tel_s_fighter_01_pfr_macro" />
 	</add>
 </diff>
