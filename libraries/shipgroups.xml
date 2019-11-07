@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
-	<remove sel="//groups/group[@name='sca_pirate_sm']/select[@marco='ship_tel_s_fighter_01_a']" />
-	<remove sel="//groups/group[@name='sca_pirate_sm']/select[@marco='ship_tel_s_fighter_01_b']" />
+	<remove sel="//groups/group[@name='sca_pirate_sm']/select[@marco='ship_tel_s_fighter_01_a_macro']" />
+	<remove sel="//groups/group[@name='sca_pirate_sm']/select[@marco='ship_tel_s_fighter_01_b_macro']" />
 	<add sel="//groups/group[@name='sca_pirate_sm']">
 		<select macro="ship_tel_s_fighter_01_pfr_macro" weight="18"/>
 	</add>
 
-	<remove sel="//groups/group[@name='sca_pirate_s']/select[@marco='ship_tel_s_fighter_01_a']" />
-	<remove sel="//groups/group[@name='sca_pirate_s']/select[@marco='ship_tel_s_fighter_01_b']" />
+	<remove sel="//groups/group[@name='sca_pirate_s']/select[@marco='ship_tel_s_fighter_01_a_macro']" />
+	<remove sel="//groups/group[@name='sca_pirate_s']/select[@marco='ship_tel_s_fighter_01_b_macro']" />
 	<add sel="//groups/group[@name='sca_pirate_s']">
 		<select macro="ship_tel_s_fighter_01_pfr_macro" weight="2"/>
 	</add>
